@@ -48,7 +48,7 @@
     "bpmn-js-properties-panel": "github:bpmn-io/bpmn-js-properties-panel#bpmn-js-9",
     "camunda-bpmn-moddle": "^6.1.1",
     "diagram-js": "github:bpmn-io/diagram-js#fix-no-root-during-import",
-    "diagram-js-minimap": "github:bpmn-io/diagram-js-minimap#support-multi-plane-elements",
+    "diagram-js-minimap": "github:bpmn-io/diagram-js-minimap#bpmn-js-9",
     "diagram-js-origin": "^1.3.2",
     "inherits": "^2.0.4",
     "min-dash": "^3.7.0",
