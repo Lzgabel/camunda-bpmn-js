@@ -44,7 +44,7 @@
     "bpmn-js": "~9.0.0-alpha.1",
     "bpmn-js-disable-collapsed-subprocess": "^0.1.3",
     "bpmn-js-executable-fix": "^0.1.3",
-    "bpmn-js-properties-panel": "github:bpmn-io/bpmn-js-properties-panel#connectors",
+    "bpmn-js-properties-panel": "github:bpmn-io/bpmn-js-properties-panel#d784ac8613243d054ff425eb6d08c8d092e35e22",
     "camunda-bpmn-moddle": "^6.1.1",
     "diagram-js": "^8.1.1",
     "diagram-js-minimap": "^2.0.4",
